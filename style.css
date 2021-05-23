@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+}
+body{
+    font-family: 'balsamiq Sons' cursive;
+    text-align: center;
+}
+nav{
+    display: flex;
+    justify-content: center;
+}
+a{
+    margin: 20px;
+    cursor: center;
+    text-decoration: none;
+    color: black;
+}
+#header1{
+    background-image: url('https://i1.faceprep.in/cartoon-background.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    padding:200px;
+}
+h1{
+    font-size:4em;
+}
+h2{
+    font-size:4em;
+}
+h3{
+    font-size:2em;
+}
+h4{
+    font-size:.5em;
+    font-weight: 400;
+}
+section p, img{
+    padding:10px;
+}
+.cartoon{
+    color: white;
+    text-align: center;
+    padding: 7px;
+}
+p{
+    font-style: italic;
+    font-size: 22px;
+margin: 2vw;
+}
+img{
+    border: 5px solid white;
+}
+#Tom{
+    background-color: orange;
+}
+#Shin{
+    background-color: red;
+}
+#Pokemon{
+    background-color:blue;
+}
+
+#Name{
+font-size: 16px;
+}
